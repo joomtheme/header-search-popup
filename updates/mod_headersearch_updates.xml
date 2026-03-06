@@ -9,7 +9,7 @@
         <version>1.1.0</version>
         <infourl title="Header Search Popup">https://github.com/joomtheme/header-search-popup</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/joomtheme/header-search-popup/releases/download/v1.1.0/mod_headersearch.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/joomtheme/header-search-popup/releases/download/1.1.0/mod_headersearch_1.1.0.zip</downloadurl>
         </downloads>
         <targetplatform name="joomla" version="^6\.0" />
         <php_minimum>8.1.0</php_minimum>
