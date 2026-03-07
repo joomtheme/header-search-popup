@@ -4,7 +4,6 @@
 ![Version](https://img.shields.io/badge/version-1.1.0-brightgreen)
 ![License](https://img.shields.io/badge/license-GPL%20v2%2B-green)
 ![GitHub release](https://img.shields.io/github/v/release/joomtheme/header-search-popup)
-![GitHub downloads](https://img.shields.io/github/downloads/joomtheme/header-search-popup/total)
 
 ## Features
 
