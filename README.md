@@ -1,3 +1,5 @@
+![Header Search Popup](assets/search.png)
+
 # Header Search Popup
 
 ![Joomla](https://img.shields.io/badge/Joomla-6.x-blue)
