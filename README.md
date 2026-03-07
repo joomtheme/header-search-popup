@@ -57,6 +57,8 @@ Recommended settings:
 - Mobile support
 - Joomla 6 compatibility
 
+⭐ If you like this module, please star the repository.
+
 ## License
 
 GNU General Public License v2 or later.
